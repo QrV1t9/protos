@@ -1,3 +1,3 @@
-module github.com/qrv1t9/protos
+module github.com/QrV1t9/protos
 
 go 1.24
